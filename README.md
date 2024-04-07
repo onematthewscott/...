@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a research study involving LLMs at Michigan State University.**
+ 🔭 I’m currently conducting **a research study involving LLMs at Michigan State University.**
  
  🌱 I’m currently learning **UX Research, React Native, and Gemini API**
 
