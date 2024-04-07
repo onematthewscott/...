@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=onematthewscott.onematthewscott" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Helvetica&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matthew!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Helvetica&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👨🏽‍💻;+I'm+Matthew!;" />
 </h1>
 
 <h3 align="center">A fellow HCI Enthusiast and Frontend Web Developer from Michigan, USA 🇨🇦</h3>
