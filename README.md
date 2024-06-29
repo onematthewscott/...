@@ -2,8 +2,8 @@
 
 <h1 align="center">
    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi%2C+I'm+Matthew!+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG">
-    </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&pause=1000&color=F7F7F7&center=true&random=false&width=435&lines=Hi%2C+I%27m+Matthew!+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG">
+   </a>
 </h1>
 
 <h3 align="center">A user experience architect and UI engineer based in Michigan, USA. 🇺🇸</h3>
