@@ -12,13 +12,12 @@
 
 <div align="center">
  
- 🔭 I’m currently conducting **a research study involving LLMs at Michigan State University.**
+ 🔭 I’m currently researching **MMLLM's Capabilities in Mulitlingual Settings & Cultural Slang-use**
  
- 🌱 I’m currently learning **UX Research, React Native, and Gemini API**
+ 🌱 I’m currently learning **UX Research, Using Python in Quantitative Research Settings, and UI Frameworks**
 
-💬 Ask me about **Artificial General Intelligence, My Research, My Interests or anything [here](https://matthewscott.io/about)**
+💬 Ask me about **AGI, My Research, My Interests or anything [here](https://matthewscott.io/about)**
 
-⚡ Fun fact **I'm a Boxer, with 5 years of Amateur Experience. Currently practicing Kickboxing!**
 
  </div>
  
